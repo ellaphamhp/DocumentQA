@@ -3,7 +3,7 @@ This is a simple demo of how to create a Document question and answering app, bu
 
 The app accesses url of online articles, and provide answers on any questions related. 
 
-![DocumentQA App run in local host]((https://github.com/ellaphamhp/DocumentQA/blob/master/image.png))
+![DocumentQA App run in local host](https://github.com/ellaphamhp/DocumentQA/blob/master/image.png)
 
 **1. Set up:**
 - Install required packages: ```pip install -r requirements.txt```
