@@ -1,8 +1,12 @@
 # DocumentQA
-Document question and answering app, built from Langchain, Streamlit and OpenAI
+This is a simple demo of how to create a Document question and answering app, built from Langchain, Streamlit and OpenAI.
+
+The app accesses url of online articles, and provide answers on any questions related. 
+
+![alt text](http://url/to/img.png)
 
 **1. Set up:**
-- Install required packages: ```pip install -f requirements.text```
+- Install required packages: ```pip install -r requirements.txt```
 
 **2. Get API Key**
 - Go to https://platform.openai.com/, sign up and get OPEN AI API key
