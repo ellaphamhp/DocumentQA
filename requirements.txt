@@ -144,7 +144,7 @@ pycparser==2.21
 pydantic==2.6.4
 pydantic_core==2.16.3
 pydeck==0.8.1b0
-Pygments==2.14.0
+Pygments==2.15.0
 pyodbc==4.0.35
 pypdf==4.1.0
 PyPika==0.48.9
