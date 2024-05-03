@@ -183,7 +183,7 @@ tokenizers==0.15.2
 toml==0.10.2
 toolz==0.12.1
 tornado==6.2
-tqdm==4.66.2
+tqdm==4.66.3
 traitlets==5.9.0
 typer==0.11.1
 types-requests==2.31.0.20240311
