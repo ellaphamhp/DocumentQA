@@ -79,7 +79,7 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.6
 kubernetes==29.0.0
 langchain==0.1.13
-langchain-community==0.0.29
+langchain-community==0.2.5
 langchain-core==0.1.36
 langchain-exa==0.0.1
 langchain-openai==0.1.1
